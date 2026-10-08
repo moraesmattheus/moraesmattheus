@@ -23,9 +23,9 @@
   <sub>React Native · Expo · TypeScript · Cloudflare Workers · IA · *AI-powered career CRM.*</sub>
 - 🧭 **[Rota de Vida](https://github.com/moraesmattheus/Aplicativos/tree/main/rota-de-vida)** — PWA instalável para acompanhar um plano de vida (rota financeira, metas, diário), com atualização automática.<br>
   <sub>PWA · Service Worker · Web Manifest · *Installable life-planning app.*</sub>
-- 🤖 **SOS Floripa** — Agente de IA no WhatsApp para serviços urbanos e de saúde.<br>
+- 🤖 **[SOS Floripa](https://github.com/moraesmattheus/Sos-Floripa)** — Agente de IA no WhatsApp para serviços urbanos e de saúde.<br>
   <sub>Arquitetura de agentes de IA · n8n + Make · integração de APIs</sub>
-- 📊 **Marketing Performance Dashboard** — Painel que consolida métricas de múltiplos canais para decisão gerencial.<br>
+- 📊 **[Marketing Performance Dashboard](https://github.com/moraesmattheus/Dashboard-Marketing)** — Painel que consolida métricas de múltiplos canais para decisão gerencial.<br>
   <sub>Modelagem de dados · lógica de KPIs · visualização de dados</sub>
 
 ---
@@ -73,6 +73,7 @@ Aprofundando **desenvolvimento de apps e web** — lógica de programação, arq
 
 ### 🎓 Formação / Education
 
+**Engenharia de Software** — Infnet (EAD) · início em out/2026<br>
 **Tecnólogo em Marketing Digital** — UNICV · 2026
 
 ---
@@ -80,7 +81,7 @@ Aprofundando **desenvolvimento de apps e web** — lógica de programação, arq
 ### 📫 Contato / Contact
 
 - 💼 LinkedIn — [mattheusmoraes](https://linkedin.com/in/mattheusmoraes)
-- 📧 E-mail — [moraes_trabalho@outlook.com](mailto:moraes_trabalho@outlook.com)
+- 📧 E-mail — [moraes_trabalho@outlook.com.br](mailto:moraes_trabalho@outlook.com.br)
 - 💬 WhatsApp — [+55 61 98210-6653](https://wa.me/5561982106653)
 
 <sub>Aberto a oportunidades em tecnologia · Open to opportunities in tech</sub>
