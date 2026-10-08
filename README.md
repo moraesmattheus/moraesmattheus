@@ -1,87 +1,75 @@
 <h1 align="center">Olá, eu sou o Mattheus 👋</h1>
 
 <p align="center">
-  <b>Marketing de performance + dados + IA — construindo produtos digitais.</b><br>
-  <i>Performance marketing × data × AI — building digital products.</i>
+  <b>Estudante de Engenharia de Software. Construo apps, backends com IA e automações.</b><br>
+  <i>Software engineering student. I build apps, AI backends and automations.</i>
 </p>
 
 <p align="center">
-  📍 Florianópolis, SC — Brasil
+  📍 Florianópolis, SC, Brasil
 </p>
 
 ---
 
-🇧🇷 Sou **analista de marketing de performance** (varejo e e-commerce) em **transição para a área de tecnologia**. Passei os últimos anos transformando dados em decisão — mídia paga, CRM, dashboards e automação — e hoje uso essa base para **construir produtos**: apps, agentes de IA e automações orientadas a resultado.
+🇧🇷 Estudo **Engenharia de Software** (Infnet) e já construo software por conta própria: app mobile, backend serverless com IA e PWA com login e banco na nuvem. Venho do **marketing de performance** (varejo e e-commerce), onde aprendi a transformar dados em decisão e a automatizar processos. Busco **estágio em desenvolvimento de software, apps ou IA**.
 
-🇺🇸 I'm a **performance marketing analyst** (retail & e-commerce) **moving into tech**. I've spent years turning data into decisions — paid media, CRM, dashboards and automation — and now I use that foundation to **build products**: apps, AI agents and results-driven automations.
-
----
-
-### 🚀 O que estou construindo / What I'm building
-
-- 🎯 **[Radar de Vagas](https://github.com/moraesmattheus/Aplicativos)** — CRM pessoal de carreira. App Android (React Native / Expo) que encontra vagas, calcula a **compatibilidade com o seu currículo**, organiza tudo num **Kanban** e agenda entrevistas no Google Calendar — com **backend de IA** (Cloudflare Workers + Gemini) que lê currículo em PDF.<br>
-  <sub>React Native · Expo · TypeScript · Cloudflare Workers · IA · *AI-powered career CRM.*</sub>
-- 🧭 **[Rota de Vida](https://github.com/moraesmattheus/Aplicativos/tree/main/rota-de-vida)** — PWA instalável para acompanhar um plano de vida (rota financeira, metas, diário), com atualização automática.<br>
-  <sub>PWA · Service Worker · Web Manifest · *Installable life-planning app.*</sub>
-- 🤖 **[SOS Floripa](https://github.com/moraesmattheus/Sos-Floripa)** — Agente de IA no WhatsApp para serviços urbanos e de saúde.<br>
-  <sub>Arquitetura de agentes de IA · n8n + Make · integração de APIs</sub>
-- 📊 **[Marketing Performance Dashboard](https://github.com/moraesmattheus/Dashboard-Marketing)** — Painel que consolida métricas de múltiplos canais para decisão gerencial.<br>
-  <sub>Modelagem de dados · lógica de KPIs · visualização de dados</sub>
+🇺🇸 I study **Software Engineering** and already build on my own: a mobile app, a serverless AI backend and a PWA with auth and a cloud database. I come from **performance marketing**, where I learned to turn data into decisions and automate processes. I'm looking for an **internship in software development, apps or AI**.
 
 ---
 
-### 🛠️ Ferramentas & Tecnologias / Tools & Tech
+### 🚀 Projetos / Projects
 
-**Desenvolvimento & Produto**
+- 🎯 **[Radar de Vagas](https://github.com/moraesmattheus/Aplicativos)**: app Android que busca vagas em 7 APIs, remove duplicadas, calcula um score de compatibilidade de 0 a 100 com o currículo, organiza candidaturas em Kanban e agenda entrevistas no Google Calendar. Tem backend de IA (Cloudflare Workers + Gemini), construído e ainda não publicado.<br>
+  <sub>React Native · Expo · TypeScript · Cloudflare Workers · Gemini</sub>
+- 🧭 **[Rota de Vida](https://moraesmattheus.github.io/Aplicativos/rota-de-vida/)** ([código](https://github.com/moraesmattheus/Aplicativos/tree/main/rota-de-vida)): PWA instalável de planejamento financeiro, com modo offline, login e Firestore com regras de segurança por usuário.<br>
+  <sub>PWA · Service Worker · Firebase Auth · Firestore</sub>
+- 🤖 **[SOS Floripa](https://github.com/moraesmattheus/Sos-Floripa)** (em construção): agente de IA no WhatsApp para serviços urbanos e de saúde.<br>
+  <sub>n8n · Make · integração de APIs</sub>
+- 📊 **[Marketing Dashboard](https://github.com/moraesmattheus/Dashboard-Marketing)** (em construção): painel de métricas de marketing de performance.
+- 🔒 **Órion** (repositório privado): companheiro cognitivo pessoal com IA, em desenvolvimento, com testes automatizados.
+- 🛠️ **Também:** scraper de vagas em Python e Playwright, e servidor MCP próprio que conecta o Claude ao Outlook.
+
+> Parte do código foi feita com apoio de IA (Claude Code). Eu estruturo, reviso, testo e sei explicar o que cada parte faz.
+
+---
+
+### 🛠️ Tecnologias / Tech
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square)
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?logo=react&logoColor=black&style=flat-square)
 ![Expo](https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=white&style=flat-square)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=flat-square)
 ![Cloudflare Workers](https://img.shields.io/badge/Cloudflare_Workers-F38020?logo=cloudflare&logoColor=white&style=flat-square)
-![PWA](https://img.shields.io/badge/PWA-5A0FC8?logo=pwa&logoColor=white&style=flat-square)
-
-**Automação & IA**
-
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat-square)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?logo=n8n&logoColor=white&style=flat-square)
 ![Make](https://img.shields.io/badge/Make-6D00CC?logo=make&logoColor=white&style=flat-square)
-![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?logo=anthropic&logoColor=white&style=flat-square)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?logo=googlegemini&logoColor=white&style=flat-square)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?logo=anthropic&logoColor=white&style=flat-square)
 
-**Dados & BI**
-
-![GA4](https://img.shields.io/badge/Google_Analytics-E37400?logo=googleanalytics&logoColor=white&style=flat-square)
-![GTM](https://img.shields.io/badge/Tag_Manager-246FDB?logo=googletagmanager&logoColor=white&style=flat-square)
-![Qlik](https://img.shields.io/badge/Qlik-009845?logo=qlik&logoColor=white&style=flat-square)
-![SQL](https://img.shields.io/badge/SQL_%2F_Data_Modeling-4479A1?logo=postgresql&logoColor=white&style=flat-square)
-
-**Marketing & E-commerce**
-
-![Meta Ads](https://img.shields.io/badge/Meta_Ads-0866FF?logo=meta&logoColor=white&style=flat-square)
-![Google Ads](https://img.shields.io/badge/Google_Ads-4285F4?logo=googleads&logoColor=white&style=flat-square)
-![RD Station](https://img.shields.io/badge/RD_Station-00D4FF?style=flat-square)
-![SEMrush](https://img.shields.io/badge/SEMrush-FF642D?logo=semrush&logoColor=white&style=flat-square)
-![Shopify](https://img.shields.io/badge/Shopify-7AB55C?logo=shopify&logoColor=white&style=flat-square)
+<sub>Background em marketing: Meta Ads, Google Ads, GA4, GTM, RD Station, Shopify.</sub>
 
 ---
 
-### 📚 Foco atual / Currently learning
+### 📚 Estudando agora / Currently learning
 
-Aprofundando **desenvolvimento de apps e web** — lógica de programação, arquitetura de produto e integração com IA.<br>
-<i>Deepening app & web development — programming, product architecture and AI integration.</i>
+Python, cloud (AWS), cibersegurança e fundamentos de Engenharia de Software.<br>
+<i>Python, cloud (AWS), cybersecurity and software engineering fundamentals.</i>
 
 ---
 
 ### 🎓 Formação / Education
 
-**Engenharia de Software** — Infnet (EAD) · início em out/2026<br>
-**Tecnólogo em Marketing Digital** — UNICV · 2026
+**Engenharia de Software**, Infnet (EAD) · início em out/2026<br>
+**Tecnólogo em Marketing Digital**, UNICV · 2026
 
 ---
 
 ### 📫 Contato / Contact
 
-- 💼 LinkedIn — [mattheusmoraes](https://linkedin.com/in/mattheusmoraes)
-- 📧 E-mail — [moraes_trabalho@outlook.com.br](mailto:moraes_trabalho@outlook.com.br)
-- 💬 WhatsApp — [+55 61 98210-6653](https://wa.me/5561982106653)
+- 💼 LinkedIn: [mattheusmoraes](https://linkedin.com/in/mattheusmoraes)
+- 📧 E-mail: [moraes_trabalho@outlook.com.br](mailto:moraes_trabalho@outlook.com.br)
+- 💬 WhatsApp: [+55 61 98210-6653](https://wa.me/5561982106653)
 
-<sub>Aberto a oportunidades em tecnologia · Open to opportunities in tech</sub>
+<sub>Aberto a estágio em tecnologia · Open to tech internships</sub>
